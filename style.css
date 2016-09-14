@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+    font-family: monospace;
+}
+
+#input {
+    background-color: white;
+    width: 100%;
+    height: 20px;
+    padding: 5px;
+}
+
+#container {
+    width: 150px;
+}
+
+.results {
+    background-color: white;
+    width: 100%;
+    min-height: 20px;
+    padding: 5px;
+    display: none;
+}
+
+.activeresult {
+    background-color: lightgrey;
+    color: blue;
+}
+
+.greytext {
+    color: grey;
+}
